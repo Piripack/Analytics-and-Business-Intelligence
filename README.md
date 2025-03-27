@@ -11,7 +11,6 @@
 
 Your report contains **excellent evidence of using various analytical tools**, such as **Excel, Python, and Tableau**, to extract useful insights from multiple datasets. You have provided numerous screengrabs to demonstrate the use of a range of **complex analytical techniques** in obtaining information from various data sources. The report is well-structured, formatted, and referenced.
 
-> ⚠️ Note: Results were placed in appendices, which are considered secondary/supporting material. Lecturers are not obliged to mark appendices, but in this case, **the benefit of the doubt was given**, and your appendices were fully marked.
 
 ---
 
