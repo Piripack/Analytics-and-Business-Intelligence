@@ -1,6 +1,6 @@
 # 📊 Analytics and Business Intelligence Portfolio – Distinction Level
 
-## 🎓 Module: QHO539_A_INYR_2024_25 – Analytics and Business Intelligence  
+## 🎓 Module: QHO539 – Analytics and Business Intelligence  
 **Institution:** Solent University  
 **Assessment Type:** Portfolio (100%)  
 **Grade:** Distinction  
