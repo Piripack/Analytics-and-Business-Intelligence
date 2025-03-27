@@ -27,7 +27,7 @@ Your report contains **excellent evidence of using various analytical tools**, s
 
 ## 📎 Attached
 
-> 📄 [`QHO539_A_INYR_2024_25_Analytics and Business Intelligence - Portfolio 1.pdf`](./QHO539_A_INYR_2024_25_Analytics%20and%20Business%20Intelligence%20-%20Portfolio%201%20(100%)%20_%20Solent%20Online%20Learning.pdf)
+> 📄 [`QHO539_A_INYR_2024_25_Analytics and Business Intelligence - Portfolio 1.pdf`](./QHO539_A_INYR_2024_25_ Analytics and Business Intelligence - Portfolio 1 (100%) _ Solent Online Learning.pdf)
 
 ---
 
