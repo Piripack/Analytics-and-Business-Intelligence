@@ -26,7 +26,8 @@ Your report contains **excellent evidence of using various analytical tools**, s
 
 ## 📎 Attached
 
-> 📄 [`AR ABI QHO539 PLR.pdf`](./AR ABI QHO539 PLR.pdf)
+> 📄 [AR ABI QHO539 PLR.pdf](https://github.com/Piripack/Analytics-and-Business-Intelligence/blob/main/AR%20ABI%20QHO539%20PLR.pdf)
+
 
 
 ---
